@@ -1,0 +1,18 @@
+*.tfstate*
+.terraform/
+*.tfplan
+*.tfvars
+*.tfvars.json
+.env
+.env.*
+*.pem
+*.key
+crash.log
+crash.*.log
+
+# Azure credentials and local backups
+.azure/
+.azureclirc
+*.bak
+*.backup
+*~

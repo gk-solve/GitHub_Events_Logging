@@ -1,0 +1,11 @@
+Following resources are marked to be skipped:
+
+- /subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/FunctionsRG/providers/Microsoft.Storage/storageAccounts/foundationalstore/blobServices/default
+- /subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/FunctionsRG/providers/Microsoft.Storage/storageAccounts/foundationalstore/fileServices/default
+- /subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/FunctionsRG/providers/Microsoft.Storage/storageAccounts/foundationalstore/tableServices/default
+- /subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/FunctionsRG/providers/Microsoft.Storage/storageAccounts/functionsrgabbd/blobServices/default
+- /subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/FunctionsRG/providers/Microsoft.Storage/storageAccounts/functionsrgabbd/fileServices/default
+- /subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/FunctionsRG/providers/Microsoft.Storage/storageAccounts/functionsrgabbd/tableServices/default
+- /subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/functionsrg/providers/Microsoft.Web/sites/FoundationalFunctions/basicPublishingCredentialsPolicies/ftp
+- /subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/functionsrg/providers/Microsoft.Web/sites/FoundationalFunctions/basicPublishingCredentialsPolicies/scm
+- /subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/functionsrg/providers/Microsoft.Web/sites/FoundationalFunctions/config/web

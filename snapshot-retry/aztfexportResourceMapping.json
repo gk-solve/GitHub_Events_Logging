@@ -1,0 +1,87 @@
+{
+	"/subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/FunctionsRG": {
+		"resource_id": "/subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/FunctionsRG",
+		"resource_type": "azurerm_resource_group",
+		"resource_name": "res-0"
+	},
+	"/subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/FunctionsRG/providers/Microsoft.Storage/storageAccounts/foundationalstore": {
+		"resource_id": "/subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/FunctionsRG/providers/Microsoft.Storage/storageAccounts/foundationalstore",
+		"resource_type": "azurerm_storage_account",
+		"resource_name": "res-1"
+	},
+	"/subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/FunctionsRG/providers/Microsoft.Storage/storageAccounts/foundationalstore/blobServices/default/containers/githubeventslogs": {
+		"resource_id": "/subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/FunctionsRG/providers/Microsoft.Storage/storageAccounts/foundationalstore/blobServices/default/containers/githubeventslogs",
+		"resource_type": "azurerm_storage_container",
+		"resource_name": "res-3"
+	},
+	"/subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/FunctionsRG/providers/Microsoft.Storage/storageAccounts/foundationalstore/queueServices/default": {
+		"resource_id": "/subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/FunctionsRG/providers/Microsoft.Storage/storageAccounts/foundationalstore",
+		"resource_type": "azurerm_storage_account_queue_properties",
+		"resource_name": "res-5"
+	},
+	"/subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/FunctionsRG/providers/Microsoft.Storage/storageAccounts/foundationalstore/queueServices/default/queues/webjobs-blobtrigger-poison": {
+		"resource_id": "https://foundationalstore.queue.core.windows.net/webjobs-blobtrigger-poison",
+		"resource_type": "azurerm_storage_queue",
+		"resource_name": "res-6"
+	},
+	"/subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/FunctionsRG/providers/Microsoft.Storage/storageAccounts/functionsrgabbd": {
+		"resource_id": "/subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/FunctionsRG/providers/Microsoft.Storage/storageAccounts/functionsrgabbd",
+		"resource_type": "azurerm_storage_account",
+		"resource_name": "res-8"
+	},
+	"/subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/FunctionsRG/providers/Microsoft.Storage/storageAccounts/functionsrgabbd/blobServices/default/containers/azure-webjobs-hosts": {
+		"resource_id": "/subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/FunctionsRG/providers/Microsoft.Storage/storageAccounts/functionsrgabbd/blobServices/default/containers/azure-webjobs-hosts",
+		"resource_type": "azurerm_storage_container",
+		"resource_name": "res-10"
+	},
+	"/subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/FunctionsRG/providers/Microsoft.Storage/storageAccounts/functionsrgabbd/blobServices/default/containers/azure-webjobs-secrets": {
+		"resource_id": "/subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/FunctionsRG/providers/Microsoft.Storage/storageAccounts/functionsrgabbd/blobServices/default/containers/azure-webjobs-secrets",
+		"resource_type": "azurerm_storage_container",
+		"resource_name": "res-11"
+	},
+	"/subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/FunctionsRG/providers/Microsoft.Storage/storageAccounts/functionsrgabbd/fileServices/default/shares/foundationalfunctions8db1": {
+		"resource_id": "/subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/FunctionsRG/providers/Microsoft.Storage/storageAccounts/functionsrgabbd/fileServices/default/shares/foundationalfunctions8db1",
+		"resource_type": "azurerm_storage_share",
+		"resource_name": "res-13"
+	},
+	"/subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/FunctionsRG/providers/Microsoft.Storage/storageAccounts/functionsrgabbd/queueServices/default": {
+		"resource_id": "/subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/FunctionsRG/providers/Microsoft.Storage/storageAccounts/functionsrgabbd",
+		"resource_type": "azurerm_storage_account_queue_properties",
+		"resource_name": "res-14"
+	},
+	"/subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/FunctionsRG/providers/Microsoft.Storage/storageAccounts/functionsrgabbd/queueServices/default/queues/azure-webjobs-blobtrigger-foundationalfunctions": {
+		"resource_id": "https://functionsrgabbd.queue.core.windows.net/azure-webjobs-blobtrigger-foundationalfunctions",
+		"resource_type": "azurerm_storage_queue",
+		"resource_name": "res-15"
+	},
+	"/subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/FunctionsRG/providers/Microsoft.Web/serverFarms/ASP-FunctionsRG-9b17": {
+		"resource_id": "/subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/FunctionsRG/providers/Microsoft.Web/serverFarms/ASP-FunctionsRG-9b17",
+		"resource_type": "azurerm_service_plan",
+		"resource_name": "res-17"
+	},
+	"/subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/FunctionsRG/providers/microsoft.insights/actiongroups/Application Insights Smart Detection": {
+		"resource_id": "/subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/FunctionsRG/providers/Microsoft.Insights/actionGroups/Application Insights Smart Detection",
+		"resource_type": "azurerm_monitor_action_group",
+		"resource_name": "res-18"
+	},
+	"/subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/FunctionsRG/providers/microsoft.insights/components/FoundationalFunctions": {
+		"resource_id": "/subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/FunctionsRG/providers/Microsoft.Insights/components/FoundationalFunctions",
+		"resource_type": "azurerm_application_insights",
+		"resource_name": "res-19"
+	},
+	"/subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/functionsrg/providers/Microsoft.Web/sites/FoundationalFunctions": {
+		"resource_id": "/subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/functionsrg/providers/Microsoft.Web/sites/FoundationalFunctions",
+		"resource_type": "azurerm_windows_function_app",
+		"resource_name": "res-20"
+	},
+	"/subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/functionsrg/providers/Microsoft.Web/sites/FoundationalFunctions/functions/http_githubevents_logger": {
+		"resource_id": "/subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/functionsrg/providers/Microsoft.Web/sites/FoundationalFunctions/functions/http_githubevents_logger",
+		"resource_type": "azurerm_function_app_function",
+		"resource_name": "res-24"
+	},
+	"/subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/functionsrg/providers/Microsoft.Web/sites/FoundationalFunctions/hostNameBindings/foundationalfunctions-eufdaqesftdyekfc.westeurope-01.azurewebsites.net": {
+		"resource_id": "/subscriptions/5f04c695-b6c6-4f21-8e29-acdd0aa5160c/resourceGroups/functionsrg/providers/Microsoft.Web/sites/FoundationalFunctions/hostNameBindings/foundationalfunctions-eufdaqesftdyekfc.westeurope-01.azurewebsites.net",
+		"resource_type": "azurerm_app_service_custom_hostname_binding",
+		"resource_name": "res-25"
+	}
+}
