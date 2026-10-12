@@ -1,4 +1,4 @@
-# Event-driven logging into Azure Blob
+# Event-driven logging into Azure Blob using a webhook
 Events tracking on GitHub using a webhook and Azure function + Blob storage to process and host the log
 
 In this project, a webhook reads the modfications brought to this GitHub repository, which contains the Terraform code of this same Azure project.
