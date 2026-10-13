@@ -14,7 +14,7 @@ A screenshot of the application output is available in the Screenshots folder.
 
 ## Screenshot
 
-![GitHub Events Logging](Screenshots/Application output_snapshot.png)
+![GitHub Events Logging](Screenshots/Application-output_snapshot.png)
 
 ## Overview
 
