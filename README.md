@@ -12,6 +12,10 @@ A screenshot of the application output is available in the Screenshots folder.
 
 # GitHub Events Logging - details
 
+## Screenshot
+
+![GitHub Events Logging](Screenshots/Application output_snapshot.png)
+
 ## Overview
 
 **GitHub Events Logging** is a small serverless application built with Azure Functions and PowerShell. It receives notifications sent by GitHub through a webhook and stores the received event data in Azure Blob Storage.
