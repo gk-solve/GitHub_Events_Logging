@@ -8,7 +8,23 @@ In this project, a webhook reads the modfications brought to the current GitHub 
 Each commit & push will call an HTTP-triggered Azure function, which will process the payload released by the webhook.
 This HTTP_triggered Azure function will read and process the payload, and create a new Blob in an Azure Blob storage containing the event details recorded in the payload (file added, modified or removed + date).
 
+## Authors and contributors
+
 A screenshot of the application output is available in the Screenshots folder.
+
+| Topic | Sub-topic | Author/Contributor |
+|---|---|---|
+| Project management | JIRA | - |
+| Project management | Versioning with Git | - |
+| Functional design | | gk-solve |
+| Technical architecture design | Pattern choice | gk-solve |
+| Technical architecture design | Components and frameworks | gk-solve |
+| Development | Code writing | ChatGPT |
+| Development | Code comments | ChatGPT |
+| Development | Cloud services set up | gk-solve |
+| Testing | Test environment set up | ChatGPT |
+| Testing | Tests execution | gk-solve |
+| Documentation | README file | ChatGPT + gk-solve |
 
 # GitHub Events Logging - details
 
