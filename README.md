@@ -10,8 +10,6 @@ This HTTP_triggered Azure function will read and process the payload, and create
 
 ## Authors and contributors
 
-A screenshot of the application output is available in the Screenshots folder.
-
 | Topic | Sub-topic | Author/Contributor |
 |---|---|---|
 | Project management | JIRA | - |
