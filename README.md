@@ -17,7 +17,7 @@ This HTTP_triggered Azure function will read and process the payload, and create
 | Functional design | | gk-solve |
 | Technical architecture design | Pattern choice | gk-solve |
 | Technical architecture design | Components and frameworks | gk-solve |
-| Development | Code writing | ChatGPT |
+| Development | Code writing (Powershell) | ChatGPT |
 | Development | Code comments | ChatGPT |
 | Development | Cloud services set up | gk-solve |
 | Testing | Test environment set up | ChatGPT |
